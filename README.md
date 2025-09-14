@@ -79,4 +79,7 @@ This dashboard provides key insights into Dana Airline's customer base, flight o
 
 ---
 
+<img width="959" height="524" alt="Screenshot 2025-09-14 165952" src="https://github.com/user-attachments/assets/cc895ede-b0cb-4107-bff2-6adb8376cfee" />
+
+
 This detailed analysis equips Dana Airline with data-driven understanding of customer behavior and operational challenges, providing guidance for service improvements and strategic focus areas.
