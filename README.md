@@ -68,6 +68,11 @@ This dashboard provides key insights into Dana Airline's customer base, flight o
 
 ---
 
+##  Visualization
+<img width="959" height="524" alt="Screenshot 2025-09-14 165952" src="https://github.com/user-attachments/assets/cc895ede-b0cb-4107-bff2-6adb8376cfee" />
+
+---
+
 ## Insights
 
 - The airline demonstrates a strong **business travel focus** with the highest flight distances attributed to business class customers.
@@ -78,8 +83,5 @@ This dashboard provides key insights into Dana Airline's customer base, flight o
 - Secondary service areas like in-flight comfort, baggage handling, and entertainment could be enhanced to improve overall satisfaction.
 
 ---
-
-<img width="959" height="524" alt="Screenshot 2025-09-14 165952" src="https://github.com/user-attachments/assets/cc895ede-b0cb-4107-bff2-6adb8376cfee" />
-
 
 This detailed analysis equips Dana Airline with data-driven understanding of customer behavior and operational challenges, providing guidance for service improvements and strategic focus areas.
